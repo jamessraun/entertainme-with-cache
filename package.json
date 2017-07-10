@@ -1,0 +1,16 @@
+{
+  "name": "entertainme-with-cache",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/jamessraun/entertainme-with-cache.git",
+  "author": "jamessraun <jeezybig@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.16.2",
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "mongoose": "4.10.8",
+    "redis": "^2.7.1",
+    "response-time": "^2.3.2"
+  }
+}
